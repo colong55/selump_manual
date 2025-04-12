@@ -10,13 +10,13 @@ Selump 提供了兩種便捷的方式來觸發跳轉：
 
 在應用程式或網頁中選取文字時，Selump 會在工具列中提供跳轉選項。(有些應用程式會限制工具列的功能，作為替代可採用分享功能跳轉)
 
-![使用文字選取工具列跳轉](https://github.com/colong55/colong55.github.io/blob/main/selump/%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E5%88%97%E8%B7%B3%E8%BD%89.gif)
+![使用文字選取工具列跳轉](https://github.com/colong55/selump_manual/blob/main/%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E5%88%97%E8%B7%B3%E8%BD%89.gif)
 
 ### 使用分享功能跳轉
 
 也可以透過分享，將選取的文字分享給 Selump 進行解析和跳轉。
 
-![使用分享功能跳轉](https://github.com/colong55/colong55.github.io/blob/main/selump/%E4%BD%BF%E7%94%A8%E5%88%86%E4%BA%AB%E8%B7%B3%E8%BD%89.gif)
+![使用分享功能跳轉](https://github.com/colong55/selump_manual/blob/main/%E4%BD%BF%E7%94%A8%E5%88%86%E4%BA%AB%E8%B7%B3%E8%BD%89.gif)
 
 ## 各項設定解釋
 
@@ -40,6 +40,6 @@ Selump 提供多項設定，讓您可以根據自己的需求進行調整。
 進階功能則允許您自訂義規則，或使用 Scheme 操作來開啟特定的應用程式。
 
 **(重要提示：)** 若要使用「使用預設 App」功能，您需要先在 Android 系統設定中指定網址的預設開啟應用程式。具體路徑通常為：**設定 -> 應用程式 -> 預設開啟**，然後找到您希望 Selump 使用的應用程式，並設定其支援的網址。
-![預設開啟設定畫面](https://github.com/colong55/colong55.github.io/blob/main/selump/%E9%A0%90%E8%A8%AD%E9%96%8B%E5%95%9F.png)
+![預設開啟設定畫面](https://github.com/colong55/selump_manual/blob/main/%E9%A0%90%E8%A8%AD%E9%96%8B%E5%95%9F.png)
 
 
